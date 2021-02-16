@@ -12,4 +12,4 @@ descriptionTask.textContent = ` Описание алгоритма`
 // code task
 textArea.textContent = `Код алгоритма`
 
-console.log(arrayRandomNumber)
+// console.log(arrayRandomNumber)
